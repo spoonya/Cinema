@@ -1,0 +1,263 @@
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.FormSign.resources
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.Cinema.exe.config
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.FormMain.resources
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.tabFilms.resources
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.tabOptions.resources
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.tabProfile.resources
+C:\Users\Serega\Documents\Visual Studio 2015\Projects\Cinema\Cinema\obj\Debug\Cinema.tabSeats.resources
+D:\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.Drawer.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.Drawer.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\Cinema\Cinema\obj\Debug\Cinema.FormMain.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.FormSign.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.Alerts.resources
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.FormLoad.resources
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.FormMain.resources
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.Dialogs.resources
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Cinema\Cinema\bin\Debug\CinemaDB.mdf
+C:\Cinema\Cinema\bin\Debug\CinemaDB_log.ldf
+C:\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.Drawer.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.Drawer.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Cinema\Cinema\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Cinema\Cinema\obj\Debug\Cinema.Alerts.resources
+C:\Cinema\Cinema\obj\Debug\Cinema.FormSign.resources
+C:\Cinema\Cinema\obj\Debug\Cinema.Dialogs.resources
+C:\Cinema\Cinema\obj\Debug\Cinema.FormLoad.resources
+C:\Cinema\Cinema\obj\Debug\Cinema.FormMain.resources
+C:\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Cinema.mdf
+C:\Users\Serega\Desktop\Cinema\Cinema\bin\Debug\Cinema_log.ldf
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\Cinema\Cinema\bin\Debug\Cinema.mdf
+D:\Cinema\Cinema\bin\Debug\Cinema_log.ldf
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Cinema\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Cinema\Cinema\obj\Debug\Cinema.Alerts.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.Dialogs.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.FormLoad.resources
+C:\Users\Serega\Desktop\Cinema\Cinema\obj\Debug\Cinema.FormLogIn.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Cinema.exe.config
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.exe
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.pdb
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Cinema.mdf
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Cinema_log.ldf
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Cinema.exe
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Cinema.pdb
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.Alerts.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.FormLogIn.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.Dialogs.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.FormLoad.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.FormMain.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+D:\Сборка\Документы\ТЭК\КПиЯП КП\ПЗ\Исходный код\Cinema\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
