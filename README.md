@@ -1,3 +1,3 @@
 # Cinema
-Login: admin
+Login: admin;
 Password: admin
